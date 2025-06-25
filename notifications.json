@@ -1,0 +1,45 @@
+{
+    "scenarios": {
+        "uptime": {
+            "id": "uptime",
+            "applogo": "https://gearsforwork.nl/wp-content/uploads/2025/04/cropped-GFW-Gear-Only512.png",
+            "heroimage": "https://gearsforwork.nl/wp-content/uploads/2025/06/TimeToRestart.png",
+            "title": {
+                "en-US": "Reboot Required",
+                "nl-NL": "Herstart Vereist",
+                "nl-BE": "Herstart Vereist",
+                "de-DE": "Neustart Erforderlich",
+                "no-NO": "Omstart Nødvendig"
+            },
+            "description": {
+                "en-US": "Dear User, Windows on your computer has been running continuously for more than 5 days. To maintain optimal performance and stability, a reboot is necessary. Please save your work, close all applications and reboot Windows on your computer. Click the button Read FAQ to learn more or click the button Get Help to request assistance. Thank you for your understanding!",
+                "nl-NL": "Beste Gebruiker, Windows op uw computer draait al meer dan 5 dagen continu. Om optimale prestaties en stabiliteit te behouden, is een herstart noodzakelijk. Sla uw werk op, sluit alle applicaties en herstart Windows op uw computer. Klik op de knop Lees FAQ om meer te leren of klik op de knop Hulp Krijgen om hulp aan te vragen. Bedankt voor uw begrip!",
+                "nl-BE": "Beste Gebruiker, Windows op uw computer draait al meer dan 5 dagen continu. Om optimale prestaties en stabiliteit te behouden, is een herstart noodzakelijk. Sla uw werk op, sluit alle applicaties en herstart Windows op uw computer. Klik op de knop Lees FAQ om meer te leren of klik op de knop Hulp Krijgen om hulp aan te vragen. Bedankt voor uw begrip!",
+                "de-DE": "Sehr geehrter Benutzer, Windows auf Ihrem Computer läuft seit mehr als 5 Tagen ununterbrochen. Um optimale Leistung und Stabilität zu gewährleisten, ist ein Neustart erforderlich. Bitte speichern Sie Ihre Arbeit, schließen Sie alle Anwendungen und starten Sie Windows auf Ihrem Computer neu. Klicken Sie auf die Schaltfläche FAQ lesen, um mehr zu erfahren, oder klicken Sie auf die Schaltfläche Hilfe anfordern, um Unterstützung zu erhalten. Vielen Dank für Ihr Verständnis!",
+                "no-NO": "Kjære Bruker, Windows på datamaskinen din har kjørt kontinuerlig i mer enn 5 dager. For å opprettholde optimal ytelse og stabilitet, er en omstart nødvendig. Vennligst lagre arbeidet ditt, lukk alle applikasjoner og start Windows på datamaskinen din på nytt. Klikk på knappen Les FAQ for å lære mer eller klikk på knappen Få Hjelp for å be om assistanse. Takk for din forståelse!"
+            },
+            "buttons": {
+                "readfaq": {
+                    "texts":{
+                        "en-US": "Read FAQ",
+                        "nl-NL": "Lees FAQ",
+                        "nl-BE": "Lees FAQ",
+                        "de-DE": "FAQ Lesen",
+                        "no-NO": "Les FAQ"
+                    },
+                    "argument": "https://my.gearsforwork.nl/pages/exec.php/object/view/FAQ/98?exec_module=itop-portal-base&exec_page=index.php&exec_env=production&portal_id=itop-portal&"
+                },
+                "gethelp": {
+                    "texts": {
+                        "en-US": "Get Help",
+                        "nl-NL": "Hulp Krijgen",
+                        "nl-BE": "Hulp Krijgen",
+                        "de-DE": "Hilfe Anfordern",
+                        "no-NO": "Få Hjelp"
+                    },
+                    "argument": "https://my.gearsforwork.nl/pages/exec.php/object/create-from-factory/ServiceSubcategory/174/XFRpY2tldDo6Q3JlYXRlRnJvbVNlcnZpY2VTdWJjYXRlZ29yeQ==?exec_module=itop-portal-base&exec_page=index.php&portal_id=itop-portal"
+                }
+            }
+        }
+    }
+}
