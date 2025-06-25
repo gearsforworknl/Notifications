@@ -1,7 +1,7 @@
 {
     "scenarios": {
         "uptime": {
-            "id": "uptime",
+            "id": "001",
             "applogo": "https://gearsforwork.nl/wp-content/uploads/2025/04/cropped-GFW-Gear-Only512.png",
             "heroimage": "https://gearsforwork.nl/wp-content/uploads/2025/06/TimeToRestart.png",
             "title": {
