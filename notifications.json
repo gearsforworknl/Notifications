@@ -13,7 +13,6 @@
             },
             "description": {
                 "en-US": [
-                    "Dear User,",
                     "Windows on your computer has been running continuously for more than 5 days.",
                     "To maintain optimal performance and stability, a reboot is necessary.",
                     "Please save your work, close all applications and reboot Windows on your computer.",
@@ -21,7 +20,6 @@
                     "Thank you for your understanding!"
                 ],
                 "nl-NL": [
-                    "Beste Gebruiker,",
                     "Windows op uw computer draait al meer dan 5 dagen continu.",
                     "Om optimale prestaties en stabiliteit te behouden, is een herstart noodzakelijk.",
                     "Sla uw werk op, sluit alle applicaties en herstart Windows op uw computer.",
@@ -29,7 +27,6 @@
                     "Bedankt voor uw begrip!"  
                 ],
                 "nl-BE": [
-                    "Beste Gebruiker,",
                     "Windows op uw computer draait al meer dan 5 dagen continu.",
                     "Om optimale prestaties en stabiliteit te behouden, is een herstart noodzakelijk.",
                     "Sla uw werk op, sluit alle applicaties en herstart Windows op uw computer.",
@@ -37,7 +34,6 @@
                     "Bedankt voor uw begrip!"
                 ],
                 "de-DE": [
-                    "Sehr geehrter Benutzer,",
                     "Windows auf Ihrem Computer läuft seit mehr als 5 Tagen ununterbrochen.",
                     "Um optimale Leistung und Stabilität zu gewährleisten, ist ein Neustart erforderlich.",
                     "Bitte speichern Sie Ihre Arbeit, schließen Sie alle Anwendungen und starten Sie Windows auf Ihrem Computer neu.",
