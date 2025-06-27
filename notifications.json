@@ -13,40 +13,19 @@
             },
             "description": {
                 "en-US": [
-                    "Windows on your computer has been running continuously for more than 5 days.",
-                    "To maintain optimal performance and stability, a reboot is necessary.",
-                    "Please save your work, close all applications and reboot Windows on your computer.",
-                    "Click the button Read FAQ to learn more or click the button Get Help to request assistance.",
-                    "Thank you for your understanding!"
+                    "Windows on your computer has been running continuously for more than 5 days. To maintain optimal performance and stability, a reboot is necessary. Please save your work, close all applications and reboot Windows on your computer. Click the button Read FAQ to learn more or click the button Get Help to request assistance. Thank you for your understanding!"
                 ],
                 "nl-NL": [
-                    "Windows op uw computer draait al meer dan 5 dagen continu.",
-                    "Om optimale prestaties en stabiliteit te behouden, is een herstart noodzakelijk.",
-                    "Sla uw werk op, sluit alle applicaties en herstart Windows op uw computer.",
-                    "Klik op de knop Lees FAQ om meer te leren of klik op de knop Hulp Krijgen om hulp aan te vragen.",
-                    "Bedankt voor uw begrip!"  
+                    "Windows op uw computer draait al meer dan 5 dagen continu. Om optimale prestaties en stabiliteit te behouden, is een herstart noodzakelijk. Sla uw werk op, sluit alle applicaties en herstart Windows op uw computer. Klik op de knop Lees FAQ om meer te leren of klik op de knop Hulp Krijgen om hulp aan te vragen. Bedankt voor uw begrip!"  
                 ],
                 "nl-BE": [
-                    "Windows op uw computer draait al meer dan 5 dagen continu.",
-                    "Om optimale prestaties en stabiliteit te behouden, is een herstart noodzakelijk.",
-                    "Sla uw werk op, sluit alle applicaties en herstart Windows op uw computer.",
-                    "Klik op de knop Lees FAQ om meer te leren of klik op de knop Hulp Krijgen om hulp aan te vragen.",
-                    "Bedankt voor uw begrip!"
+                    "Windows op uw computer draait al meer dan 5 dagen continu. Om optimale prestaties en stabiliteit te behouden, is een herstart noodzakelijk. Sla uw werk op, sluit alle applicaties en herstart Windows op uw computer. Klik op de knop Lees FAQ om meer te leren of klik op de knop Hulp Krijgen om hulp aan te vragen. Bedankt voor uw begrip!"
                 ],
                 "de-DE": [
-                    "Windows auf Ihrem Computer läuft seit mehr als 5 Tagen ununterbrochen.",
-                    "Um optimale Leistung und Stabilität zu gewährleisten, ist ein Neustart erforderlich.",
-                    "Bitte speichern Sie Ihre Arbeit, schließen Sie alle Anwendungen und starten Sie Windows auf Ihrem Computer neu.",
-                    "Klicken Sie auf die Schaltfläche FAQ lesen, um mehr zu erfahren, oder klicken Sie auf die Schaltfläche Hilfe anfordern, um Unterstützung zu erhalten.",
-                    "Vielen Dank für Ihr Verständnis!"
+                    "Windows auf Ihrem Computer läuft seit mehr als 5 Tagen ununterbrochen. Um optimale Leistung und Stabilität zu gewährleisten, ist ein Neustart erforderlich. Bitte speichern Sie Ihre Arbeit, schließen Sie alle Anwendungen und starten Sie Windows auf Ihrem Computer neu. Klicken Sie auf die Schaltfläche FAQ lesen, um mehr zu erfahren, oder klicken Sie auf die Schaltfläche Hilfe anfordern, um Unterstützung zu erhalten. Vielen Dank für Ihr Verständnis!"
                 ],
                 "no-NO": [
-                    "Kjære Bruker,",
-                    "Windows på datamaskinen din har kjørt kontinuerlig i mer enn 5 dager.",
-                    "For å opprettholde optimal ytelse og stabilitet, er en omstart nødvendig.",
-                    "Vennligst lagre arbeidet ditt, lukk alle applikasjoner og start Windows på datamaskinen din på nytt.",
-                    "Klikk på knappen Les FAQ for å lære mer eller klikk på knappen Få Hjelp for å be om assistanse.",
-                    "Takk for din forståelse!"
+                    "Windows på datamaskinen din har kjørt kontinuerlig i mer enn 5 dager. For å opprettholde optimal ytelse og stabilitet, er en omstart nødvendig. Vennligst lagre arbeidet ditt, lukk alle applikasjoner og start Windows på datamaskinen din på nytt. Klikk på knappen Les FAQ for å lære mer eller klikk på knappen Få Hjelp for å be om assistanse. Takk for din forståelse!"
                 ]            },
             "buttons": {
                 "readfaq": {
