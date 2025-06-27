@@ -40,6 +40,35 @@
                     "argument": "https://my.gearsforwork.nl/pages/exec.php/object/create-from-factory/ServiceSubcategory/174/XFRpY2tldDo6Q3JlYXRlRnJvbVNlcnZpY2VTdWJjYXRlZ29yeQ==?exec_module=itop-portal-base&exec_page=index.php&portal_id=itop-portal"
                 }
             }
+        },
+        "reboot": {
+            "id": "002",
+            "applogo": "https://gearsforwork.nl/wp-content/uploads/2025/04/cropped-GFW-Gear-Only512.png",
+            "heroimage": "https://gearsforwork.nl/wp-content/uploads/2025/06/TimeToReboot.png",
+            "title": {
+                "en-US": "Reboot Required",
+                "nl-NL": "Herstart Vereist",
+                "nl-BE": "Herstart Vereist",
+                "de-DE": "Neustart Erforderlich",
+                "no-NO": "Omstart Nødvendig"
+            },
+            "description": {
+                "nl-NL": [
+                    "Om optimale prestaties en noodzakelijke updates toe te passen, moet uw computer worden herstart. Sla alstublieft uw werk op en sluit alle applicaties. Bedankt voor uw medewerking!"
+                ],
+                "nl-BE": [
+                    "Om optimale prestaties en noodzakelijke updates toe te passen, moet uw computer worden herstart. Sla alstublieft uw werk op en sluit alle applicaties. Bedankt voor uw medewerking!"
+                ],
+                "en-US": [
+                    "To ensure optimal performance and apply necessary updates, your computer needs to be rebooted. Please save your work and close all applications. Thank you for your cooperation!"
+                ],
+                "de-DE": [
+                    "Um optimale Leistung zu gewährleisten und notwendige Updates anzuwenden, muss Ihr Computer neu gestartet werden. Bitte speichern Sie Ihre Arbeit und schließen Sie alle Anwendungen. Vielen Dank für Ihre Mitarbeit!"
+                ],
+                "no-NO": [
+                    "For å sikre optimal ytelse og bruke nødvendige oppdateringer, må datamaskinen din startes på nytt. Vennligst lagre arbeidet ditt og lukk alle programmer. Takk for samarbeidet!"
+                ]
+            }
         }
     }
 }
