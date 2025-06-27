@@ -68,6 +68,18 @@
                 "no-NO": [
                     "For å sikre optimal ytelse og bruke nødvendige oppdateringer, må datamaskinen din startes på nytt. Vennligst lagre arbeidet ditt og lukk alle programmer. Takk for samarbeidet!"
                 ]
+            },
+            "buttons": {
+                "gethelp": {
+                    "texts": {
+                        "en-US": "Get Help",
+                        "nl-NL": "Hulp Krijgen",
+                        "nl-BE": "Hulp Krijgen",
+                        "de-DE": "Hilfe Anfordern",
+                        "no-NO": "Få Hjelp"
+                    },
+                    "argument": "https://my.gearsforwork.nl/pages/exec.php/object/create-from-factory/ServiceSubcategory/174/XFRpY2tldDo6Q3JlYXRlRnJvbVNlcnZpY2VTdWJjYXRlZ29yeQ==?exec_module=itop-portal-base&exec_page=index.php&portal_id=itop-portal"
+                }
             }
         }
     }
